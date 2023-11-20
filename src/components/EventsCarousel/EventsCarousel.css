@@ -1,0 +1,18 @@
+.custom-carousel {
+    width: 300px; /* Set a fixed width for the Carousel */
+    margin: auto; /* Center the Carousel on the page */
+    height: 350px;
+}
+
+.custom-image-container {
+    display: fixed;
+    justify-content: center;
+    height: 350px; /* Set a fixed height for the images */
+    width: 300px; /* Ensure the image doesn't overflow its container */
+}
+
+.custom-image {
+    object-fit: cover;
+    height: 100%; /* Set a fixed height for the images */
+    width: 100%; /* Ensure the image doesn't overflow its container */
+}
